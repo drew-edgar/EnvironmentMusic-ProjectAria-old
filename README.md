@@ -1,4 +1,4 @@
-# StrideVibe Project Aria Proof of Concept
+# EnvironmentMusic Project Aria Proof of Concept
 
 ## Getting Started
 This is a proof of concept of using Project Aria glasses to calculate a live 'traffic score' by using real-time YOLO (You Only Look Once) object detection.
